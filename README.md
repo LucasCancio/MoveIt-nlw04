@@ -18,7 +18,8 @@ _________
 <img width="600" src="docs/moveit.png">
 </p>
 
-O Happy é uma aplicação que conecta pessoas à casas de acolhimento institucional para fazer o dia de muitas crianças mais feliz 
+O MoveIt é uma aplicação web que tem a ideia de te fornecer ciclos de trabalho com foco, e ao final de cada ciclo você recebe um desafio para exercitar seu corpo. Conforme você completa os ciclos e desafios, você ganha experiência e sobe de level.
+
 _________
 
 ## 💡 Tecnologias
