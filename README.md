@@ -1,4 +1,4 @@
-![](docs/nlw4.jpg)
+![](docs/nlw4.png)
 <h1 align="center">🥇 MOVE-IT 🏃‍</h1>
 <h3 align="center">🏆 NEXT LEVEL WEEK 4 🏆</h3>
 
@@ -15,7 +15,7 @@ _________
 ### ✨ Sobre o projeto:
 
 <p align="center">
-<img width="600" src="docs/moveit.png">
+<img width="600" src="docs/moveit.PNG">
 </p>
 
 O MoveIt é uma aplicação web que tem a ideia de te fornecer ciclos de trabalho com foco, e ao final de cada ciclo você recebe um desafio para exercitar seu corpo. Conforme você completa os ciclos e desafios, você ganha experiência e sobe de level.
